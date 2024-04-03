@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I'm currently working on Blockchain related projects
+🏫 Pursuing a PhD in Distributed Computing
+🤔 If you are a student looking for a Bachelor's or Master's thesis, don't hesitate to contact me!
+
+
 <!--
 **yannvon/yannvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
