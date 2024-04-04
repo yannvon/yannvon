@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🔭 I'm currently working on Blockchain related projects
-🏫 Pursuing a PhD in Distributed Computing
-🤔 If you are a student looking for a Bachelor's or Master's thesis, don't hesitate to contact me!
+- 🔭 I'm currently working on Blockchain related projects
+- 🏫 Pursuing a PhD in Distributed Computing
+- 👯 I’m looking to collaborate on building fast, secure, and democratic Distributed Systems
+- 🤔 If you are a student looking for a Bachelor's or Master's thesis, don't hesitate to contact me!
 
 
 <!--
